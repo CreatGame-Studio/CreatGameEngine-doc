@@ -1,2 +1,3 @@
-# CreatGameEngine-doc
-The document of the CreatGame Engine
+# CreatGameEngine Doc
+
+The documentation of the CreatGame Engine (CGE)
